@@ -6,14 +6,14 @@
   Me chamo Ludmila, mas pode me chamar de Lud. 
   Atualmente, trabalho em outra área sem ser a de tecnologia, 
   mas decidi encarar a migração de carreira, e tenho adorado o processo. 
-    Aqui demonstrarei meus avanços, estudos e alguns projetos realizados ao longo da caminhada. 
+  Aqui demonstrarei meus avanços, estudos e alguns projetos realizados ao longo da caminhada. 
  </p>
 
   ---
  
 - 🔭 De olho nas áreas de tecnologia. 
-- 🌱 Estudando python e react. 
-- 📫 Clica no meu [Linkedin](https://www.linkedin.com/in/ludmilaalvespinto/)
+- 🌱 Estudando para full stack. 
+- 📫 Meu [Linkedin](https://www.linkedin.com/in/ludmilaalvespinto/)
 <br>
  <p align = "center">
  <a href - "https://github.com/anuraghazra/github-readme-stats">
