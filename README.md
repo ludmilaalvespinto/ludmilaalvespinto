@@ -4,15 +4,13 @@
  
  <p align = "left">
   Me chamo Ludmila, mas pode me chamar de Lud. 
-  Atualmente, trabalho em outra área sem ser a de tecnologia, 
-  mas decidi encarar a migração de carreira, e tenho adorado o processo. 
-  Aqui demonstrarei meus avanços, estudos e alguns projetos realizados ao longo da caminhada. 
+  Tenho interesse na área de Ciências de dados, e estarei demonstrando por aqui meus estudos e projetos realizados.
  </p>
 
   ---
  
 - 🔭 De olho nas áreas de tecnologia. 
-- 🌱 Estudando para full stack. 
+- 🌱 Estudando para Ciências de dados/ Analista de dados
 - 📫 Meu [Linkedin](https://www.linkedin.com/in/ludmilaalvespinto/)
 <br>
  <p align = "center">
